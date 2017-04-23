@@ -1,0 +1,12 @@
+
+<!--pages/wh/index.wxml-->
+<view>
+  <view class="weui-flex">
+    <view class="weui-flex__item">
+      <image class="" src="/image/plus.png" bindtap="addPhoto"></image>
+    </view>
+    <view class="weui-flex__item">
+      <view class="placeholder">增加商品</view>
+    </view>
+  </view>
+</view>
